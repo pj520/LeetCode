@@ -8,3 +8,7 @@ add_definitions(-DDEBUG_ERR -DDEBUG_INFO)
 set(CMAKE_BUILD_TYPE debug)
 
 add_subdirectory(0902minStack)
+add_subdirectory(0903UTF-8Validation)
+add_subdirectory(0904flatten-nested-list-iterator)
+add_subdirectory(0905largest-palindrome-product)
+
