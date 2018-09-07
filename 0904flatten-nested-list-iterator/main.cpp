@@ -109,7 +109,7 @@ private:
     void make_queue(vector<NestedInteger> &nestedList) {
         for (auto a : nestedList) {
             if (a.isInteger()) q.push(a.getInteger());
-//            else make_queue(a.getList());
+            else make_queue(a.getList());
         }
     }
 };
