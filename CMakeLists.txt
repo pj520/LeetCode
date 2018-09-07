@@ -11,4 +11,5 @@ add_subdirectory(0902minStack)
 add_subdirectory(0903UTF-8Validation)
 add_subdirectory(0904flatten-nested-list-iterator)
 add_subdirectory(0905largest-palindrome-product)
-
+add_subdirectory(0906Repeated-DNA-Sequences)
+add_subdirectory(0907Delete-Operation-for-Two-Strings)
